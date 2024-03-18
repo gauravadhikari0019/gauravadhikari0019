@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Gaurav Singh Adhikari and I'm a Recent grad | Full-stack Developer 💻 | Passionate about innovation and coding | Continuous learner 🌐 | Let's build something amazing together! , from Ghaziabad</h2>
 
 ###
 
